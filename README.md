@@ -1,5 +1,4 @@
 ## Olá Seja Bem-vindo! Eu sou o Guilherme Martins 
-Hello! Welcome
 
 
 <div style="display: inline_block"><br>
@@ -28,3 +27,11 @@ Hello! Welcome
   <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/jguilimartins/jguilimartins/output/snake.svg">
 </picture>
 </div>
+
+<sub>
+  <sub>
+    <p align="center">
+      eu geralmente tenho versões locais e basicamente só commito o projeto pronto, por isso a cobrinha ta comendo pouco 🫠                     
+    </p>
+  </sub>
+</sub>

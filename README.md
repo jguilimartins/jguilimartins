@@ -3,7 +3,7 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=130&color=22272e&text=Guilherme%20Martins&textBg=false&reversal=false&animation=twinkling&fontColor=d7dde3&descAlignY=85&fontAlign=50&fontSize=30&fontAlignY=32&strokeWidth=1&stroke=FFFFFFF&desc=Olá%20Seja%20Bem%20Vindo!"/>
 </div> 
 <div align="center" style="display: inline_block">
-  <div style="font-weight: bold;color:red;">
+  <div>
     Habilidades:
   </div><br>
   <img align="center" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -15,7 +15,6 @@
   <img align="center" alt="Gui-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-
  <div>
    
   ##
@@ -25,7 +24,6 @@
 <div>
   <a href = "mailto:jguilimartins@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jguilimartins" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
 </div>
 
 <div>
